@@ -15,8 +15,8 @@ public class SendMail {
     //邮件标题
     private static final String subject = "Happy birthday!";
     //发件人
-    private static final String mailFrom = "729765717@qq.com";
-    private static final String password = "tgmeokngcpucbcec";
+    private static final String mailFrom = "";
+    private static final String password = "";
     private static final String host = "smtp.qq.com";
     //文件路径
     private static final String File_Path = "employee_records.text";
